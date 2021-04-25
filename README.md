@@ -13,3 +13,8 @@ Recently I completed an app, [srcflask](https://github.com/pwdel/srcflask), whic
 Basically, over the past few iterations of building applications and putting them into production, I have been using the Heroku free tier. This option is no longer viable and so there's a need to move into a machine-learning-grade production server.
 
 # Production Server Options
+
+
+# Subscriber Privileges on Microsoft
+
+https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/add-change-subscription-administrator
